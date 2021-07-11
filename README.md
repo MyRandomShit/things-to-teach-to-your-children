@@ -12,5 +12,6 @@ Here are things that you might want to teach your children + the age when its ap
 ## Social Interactions
 
 ## Government
+- processing documents (the imporant ones)
 
 ## Economy
