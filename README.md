@@ -3,6 +3,8 @@ Here are things that you might want to teach your children + the age when its ap
 
 ## Finances
 
+## Professional Options
+
 ## Geopolitics
 
 ## Technology
