@@ -11,7 +11,10 @@ Here are things that you might want to teach your children + the age when its ap
 
 ## Social Interactions
 
-## Government
+## Personal Document
 - processing documents (the imporant ones)
+
+## Government/Public Administration
+- which government did what to solve problem x
 
 ## Economy
